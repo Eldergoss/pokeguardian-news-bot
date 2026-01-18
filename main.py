@@ -2,8 +2,8 @@ import requests
 from funcionesscrap import scraper_guardian
 
 # PON TU TOKEN y CHAT_ID directamente
-BOT_TOKEN = "8204875540:AAGoSRVg1vAQedtsWkNz0XAulVofEkSHSPc"
-CHAT_ID = "8054433476"
+BOT_TOKEN = ""
+CHAT_ID = ""
 
 def telegram_bot_sendtext(bot_message):
     """
